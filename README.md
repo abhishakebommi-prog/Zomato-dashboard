@@ -29,4 +29,4 @@ This project analyzes Zomato's global restaurant dataset to uncover market trend
 To ensure customer satisfaction scores accurately reflect review volume rather than unweighted averages, a custom weighted rating measure was implemented:
 
 ## Screenshot of dashboard
-* **Dashboard look like 
+* **Dashboard look like https://github.com/abhishakebommi-prog/Zomato-dashboard/blob/main/snapshot%20zomato.png
